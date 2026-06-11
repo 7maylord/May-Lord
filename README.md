@@ -21,12 +21,12 @@ I build scalable systems, explore blockchain architectures, and contribute to op
 
 ## ⚡ About Me
 
-- 😊 Pronouns: He/Him  
-- 💡 Alumni: [AltSchool Africa](https://altschoolafrica.com) • [Web3Bridge Africa](https://www.web3bridgeafrica.com)  
-- 🌱 Currently exploring: **Solidity, Cairo, Rust**  
-- 🧠 Core Stack: **MongoDB, PostgreSQL, Redis, React, Express, TypeScript, Node.js, NestJS**  
-- 🤝 Open to: Open source, hackathons, collaborations  
-- 💼 Roles: Software Engineer • Backend Engineer (Mid-level) • Blockchain Developer  
+- 😊 Pronouns: He/Him
+- 💡 Alumni: [AltSchool Africa](https://altschoolafrica.com) • [Web3Bridge Africa](https://www.web3bridgeafrica.com)
+- 🌱 Currently exploring: **Solidity, Cairo, Rust**
+- 🧠 Core Stack: **MongoDB, PostgreSQL, Redis, React, Express, TypeScript, Node.js, NestJS**
+- 🤝 Open to: Open source, hackathons, collaborations
+- 💼 Roles: Software Engineer • Backend Engineer (Mid-level) • Blockchain Developer
 - 📫 Reach me: **olumideadenigba@gmail.com**
 
 ---
@@ -35,9 +35,8 @@ I build scalable systems, explore blockchain architectures, and contribute to op
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=7maylord&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7maylord&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7maylord&layout=compact&theme=tokyonight&cache_seconds=1800&hide=html" />
 </p>
-
 ---
 
 ## 🔥 Activity Streak
