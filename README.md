@@ -4,7 +4,7 @@
 
 I turn complex ideas into reliable software—from scalable APIs and polished web applications to AI agents and multi-chain smart contracts.
 
-`TypeScript` · `Rust` · `NestJS` · `Next.js` · `Node.js` · `Axum` · `Solidity` · `Cairo`
+`TypeScript` · `Rust` · `NestJS` · `Next.js` · `Node.js` · `Soroban` · `Solidity` · `Cairo`
 
 <p align="left">
   <a href="https://olumideadenigba.vercel.app/">
